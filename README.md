@@ -18,6 +18,7 @@ protocol and APIs.
 |[UIP-0021](https://github.com/dtr-org/uips/blob/master/UIP-0021.md)|Transfer Esperanza Transactions|Proposed|2018-11-08|
 |[UIP-0024](https://github.com/dtr-org/uips/blob/master/UIP-0024.md)|CTOR - Canonical Transactions Ordering Rule|Proposed|2018-12-14|
 |[UIP-0026](https://github.com/dtr-org/uips/blob/master/UIP-0026.md)|Graphene - block propagation protocol|Proposed|2019-02-21|
+|[UIP-0027](https://github.com/dtr-org/uips/blob/master/UIP-0027.md)|Transaction service fields|Draft|2019-05-07|
 
 The team is committed to fostering a welcoming and harassment-free
 environment. All participants are expected to adhere to our [code of
